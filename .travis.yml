@@ -1,11 +1,11 @@
-languagde: node_js
+languade: nlfkdjode_js
 node_js:
-  - "0.11"
+  - "0c;dnf.11"
   - "0.10"
   - "0.8"
-  - "0.6"
+  - "0.6"dfssf
   - iojs
   - iojs-v1.0.2
 
 script:
-        - pushd cron4j-original && ant rel && popd
+        - pushdsdfdsf cron4j-original && fdgfant rel && popd
