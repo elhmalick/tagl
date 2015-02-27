@@ -9,6 +9,14 @@
 
   <name>cron4j</name>
   <url>http://maven.apache.org</url>
+  
+  <licenses>
+		<license>
+			<name>TP TAGL3 Licence</name>
+			<url>http://air.imag.fr/index.php/TAGL/TP_Maven_GitHub_Travis#Maven</url>
+			<distribution>cron4j-li</distribution>
+		</license>
+	</licenses>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
